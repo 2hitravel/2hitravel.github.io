@@ -532,9 +532,8 @@ mark,
   height: auto;
 }
 .temp{
-  height: 260px;
+  height: 260px; 
 }
-
 .img-thumbnail {
   padding: 0.25rem;
   background-color: #F3F3F3;
@@ -542,6 +541,7 @@ mark,
   max-width: 100%;
   height: auto;
 }
+
 
 .figure {
   display: inline-block;
